@@ -1,9 +1,12 @@
-## Hi there 👋
+#ahh hsign my atabook 🎁
+<p align="center">
+  <img src="https://i.postimg.cc/7hkhCRfP/e5850c4c2edb64fe34f94f5e933e1513.gif" width="400">
+</p>
 
 <!--
 **BK-omachi/BK-omachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
