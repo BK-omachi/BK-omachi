@@ -1,8 +1,9 @@
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/BM-nkoo?style=flat-square&label=FOLLOWERS&color=green">
+<img src="https://img.shields.io/github/followers/BK-omachi?style=flat-square&label=FOLLOWERS&color=green">
 
-<img src="https://komarev.com/ghpvc/?username=BM-nkoo&label=View&color=purple&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=BK-omachi&label=View&color=8A2BE2&style=flat-square">
+
 <p align="center">
   <img src="https://i.postimg.cc/7hkhCRfP/e5850c4c2edb64fe34f94f5e933e1513.gif" width="400">
 </p>
