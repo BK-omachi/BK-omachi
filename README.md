@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/7hkhCRfP/e5850c4c2edb64fe34f94f5e933e1513.gif" width="400">
 </p>
-
+<img src="https://i.ibb.co/5xW7j25t/Kh-ng-C-Ti-U-14-20261022175757.png" width="300">
 <!--
 **BK-omachi/BK-omachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
